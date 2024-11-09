@@ -1,3 +1,4 @@
+Note: fork moved to [@y1ca1/secwasm](https://github.com/y1ca1/secwasm)
 # secwasm Project - May 2023
 
 - Implementation of a security-typesystem following [this](https://plas2022.github.io/files/pdf/SecWasm.pdf) paper
